@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Happy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">Sign_in</string>
+    <string name="user_name">User name</string>
+    <string name="pasword">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title_activity_sign_up">Sign_up</string>
+    <string name="email">Email</string>
+    <string name="title_activity_select_product">Select_product</string>
+    <string name="next">Next</string>
+    <string name="title_activity_choose_producte">Choose_producte</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+</resources>
